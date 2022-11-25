@@ -1,0 +1,22 @@
+.footer__copyright {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 114%;
+  /* identical to box height, or 114% */
+  text-align: right;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__copyright {
+    line-height: 1;
+    text-align: left;
+    padding-top: 48px;
+  }
+}
+
+

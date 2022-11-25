@@ -1,0 +1,14 @@
+.cover {
+  background-image: url(../../image/cover-background.png);
+  /* object-fit: contain;
+  object-position: center center; */
+  background-size: cover;
+  margin: 0 48px;
+  position: relative;
+}
+
+@media screen and (max-width: 1279px) {
+  .cover {
+    margin: 0;
+  }
+}
