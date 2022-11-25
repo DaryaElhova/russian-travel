@@ -13,17 +13,16 @@
   letter-spacing: 1px;
 }
 
-@media (min-width: 1024px) and (max-width: 1279px) {
+@media screen and (max-width: 1279px) {
   .lead__title {
     max-width: 70%;
     padding-top: 48px;
   }
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
   .lead__title {
     max-width: 93.75%;
-    padding-top: 48px;
   }
 }
 
@@ -32,10 +31,8 @@
     font-size: 40px;
     line-height: 1.1;
     max-width: 90%;
-    padding-top: 48px;
     margin-left: 16px;
     margin-right: 16px;
-
   }
 }
 

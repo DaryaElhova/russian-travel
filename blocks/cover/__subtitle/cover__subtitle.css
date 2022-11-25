@@ -37,6 +37,5 @@
 @media screen and (max-width: 425px) {
   .cover__subtitle {
     padding: 16px 5% 33px 5%;
-    max-width: 90%;
   }
 }
