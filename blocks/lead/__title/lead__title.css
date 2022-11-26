@@ -1,5 +1,5 @@
 .lead__title {
-  font-family: 'Inter';
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 96px;
@@ -10,7 +10,7 @@
   margin: 0 auto;
   padding-top: 56px;
   max-width: 56vw;
-  letter-spacing: 1px;
+  /* letter-spacing: 1px; */
 }
 
 @media screen and (max-width: 1279px) {
