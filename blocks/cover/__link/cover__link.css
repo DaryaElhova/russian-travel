@@ -3,6 +3,7 @@
   text-decoration: none;
   background-image: url(../../../image/overlay.png);
   background-size: cover;
+  height: 100%;
 }
 
 .cover__link:hover {
